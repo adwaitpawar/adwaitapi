@@ -1,0 +1,13 @@
+{
+  "ConnectionStrings": {
+    "EmployeeAppCon": "Data Source=MUMPS-KHALIDA;database=EmployeeDB;uid=sa;password=clover@123;"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning",
+      "Microsoft.Hosting.Lifetime": "Information"
+    }
+  },
+  "AllowedHosts": "*"
+}
